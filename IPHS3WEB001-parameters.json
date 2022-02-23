@@ -1,38 +1,10 @@
 [
   {
-    "ParameterKey": "IPHPY38PIPTemplateVersion",
-    "ParameterValue": "v105"
+    "ParameterKey": "IPHS3WEBTemplateVersion",
+    "ParameterValue": "v001"
   },
   {
-    "ParameterKey": "IPHPY38PIPServerPrivateIP",
-    "ParameterValue": "10.0.1.5"
-  },
-  {
-    "ParameterKey": "IPHPY38PIPKeyName",
-    "ParameterValue": "aisdata-reporting"
-  },
-  {
-    "ParameterKey": "IPHPY38PIPInstanceType",
-    "ParameterValue": "t2.medium"
-  },
-  {
-    "ParameterKey": "IPHPY38PIPENVAWSProfileName",
-    "ParameterValue": ""
-  },
-  {
-    "ParameterKey": "IPHPY38PIPAWSinputBucketName",
-    "ParameterValue": "ais-datasets-csv"
-  },
-  {
-    "ParameterKey": "IPHPY38PIPAWScsvBucketName",
-    "ParameterValue": "ais-datasets-csv"
-  }, 
-  {
-    "ParameterKey": "IPHPY38PIPAWSpolygonsBucketName",
-    "ParameterValue": "ais-datasets-polygons"
-  },   
-  {
-    "ParameterKey": "IPHPY38PIPENVAPPDateType",
-    "ParameterValue": "leading0"
-  }   
+    "ParameterKey": "IPHS3WEBAWSBucketName",
+    "ParameterValue": "ipheion-static-website"
+  }
 ]
